@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Vijay-Bala.github.io/School-cse",
+  "homepage": "https://Vijay-Bala.github.io/FinalSchool",
   "name": "vj_school",
   "version": "0.1.0",
   "private": true,
@@ -50,5 +50,9 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
